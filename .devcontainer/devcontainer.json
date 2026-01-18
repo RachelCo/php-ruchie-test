@@ -1,0 +1,8 @@
+{
+  "name": "PHP",
+  "image": "mcr.microsoft.com/devcontainers/php:8.2",
+  "features": {
+    "ghcr.io/devcontainers/features/composer:1": {}
+  },
+  "forwardPorts": [8000]
+}
